@@ -1,0 +1,8 @@
+{
+  "recommendations": [
+    "ms-python.python",
+    "ms-python.debugpy",
+    "bradlc.vscode-tailwindcss",
+    "dsznajder.es7-react-js-snippets"
+  ]
+}
